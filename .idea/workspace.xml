@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="24b205a5-3b2a-48cc-bbd8-57b27c799729" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Framework-20.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Framework-20.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Framework-22.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Framework-22.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Framework-23.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Framework-23.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/FrameworkDev-34.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/FrameworkDev-34.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/img/Intro-04.png" beforeDir="false" afterPath="$PROJECT_DIR$/img/Intro-04.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/LCA_EIO_BoxPlot.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/LCA_EIO_BoxPlot.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/LCA_EIO_BoxPlot_Overall_Stages.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/LCA_EIO_BoxPlot_Overall_Stages.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/LCA_EIO_BoxPlot_Total.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/LCA_EIO_BoxPlot_Total.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/js/main.js" beforeDir="false" afterPath="$PROJECT_DIR$/js/main.js" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="20vsRPqJMLq3n7xi8fshTzxNo2S" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../2021Fall/CS171/W6/hw" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\JSYChen\Documents\GitHub\thats_so_fetch_final_project\js" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JavaScript Debug.index.html (2)">
+    <configuration name="index.html (1)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Thesis/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html (2)" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/Thesis_web/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <configuration name="index.html" type="JavascriptDebugType" temporary="true" nameIsGenerated="true" uri="http://localhost:63342/thats_so_fetch_final_project/index.html" useBuiltInWebServerPort="true">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JavaScript Debug.index.html (2)" />
+        <item itemvalue="JavaScript Debug.index.html (1)" />
+        <item itemvalue="JavaScript Debug.index.html" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="24b205a5-3b2a-48cc-bbd8-57b27c799729" name="Changes" comment="" />
+      <created>1636936386985</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1636936386985</updated>
+      <workItem from="1636936389438" duration="1434000" />
+      <workItem from="1637023745783" duration="40083000" />
+      <workItem from="1637348057337" duration="50722000" />
+      <workItem from="1637608748564" duration="6885000" />
+      <workItem from="1637725559390" duration="17858000" />
+      <workItem from="1637867661961" duration="13567000" />
+      <workItem from="1637977990126" duration="26096000" />
+      <workItem from="1638386326705" duration="6188000" />
+      <workItem from="1638650013099" duration="12815000" />
+      <workItem from="1639618116385" duration="596000" />
+      <workItem from="1639672657462" duration="7000" />
+      <workItem from="1640216461972" duration="1191000" />
+      <workItem from="1643143019671" duration="1190000" />
+      <workItem from="1643688243994" duration="594000" />
+      <workItem from="1643915680327" duration="594000" />
+      <workItem from="1646577767322" duration="2000" />
+      <workItem from="1646578077145" duration="1684000" />
+      <workItem from="1646678177795" duration="49000" />
+      <workItem from="1650503469857" duration="1123000" />
+      <workItem from="1650553547897" duration="580000" />
+      <workItem from="1650554150495" duration="15315000" />
+      <workItem from="1650646147796" duration="61000" />
+      <workItem from="1650646265743" duration="46719000" />
+      <workItem from="1650930360818" duration="8440000" />
+      <workItem from="1651168171002" duration="59297000" />
+      <workItem from="1651797369548" duration="49903000" />
+      <workItem from="1652137786098" duration="3467000" />
+      <workItem from="1652241980500" duration="2483000" />
+      <workItem from="1652557992237" duration="657000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+</project>
